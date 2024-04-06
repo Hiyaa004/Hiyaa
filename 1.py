@@ -24,3 +24,5 @@ if __name__ == "__main__":
     garbage_system.add_garbage(500)  # Add some garbage
     garbage_system.add_garbage(300)  # Add some more garbage
     garbage_system.add_garbage(250)  # Add even more garbage
+    garbage_system.add_garbage(300)  # Add more more garbage
+    garbage_system.add_garbage(350)
